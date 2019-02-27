@@ -11,7 +11,7 @@ Predict in-app purchases in 7 days and 14 days
 
 
 ## Background
-The data for this project was provided by Leanplum Inc and is generating by user activities of a single specific APP spanning from Oct 1st - Dec 14th. It would be good to have the prediction of the user's future behavior ahead, in order to help the company make better marketing stategies.
+The data for this project was provided by Leanplum Inc and is generating by user activities of a single specific APP spanning from Oct 1st - Dec 14th. It would be good to have the prediction of the user's future behavior ahead, in order to help the company make better marketing strategies.
 
 
 ## Table of Content
